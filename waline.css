@@ -449,6 +449,7 @@
 }
 .wl-emoji-popup .wl-tabs{
 	position:relative;
+	height:40px;
 	padding:0 6px 1px;
 	overflow-x:scroll;
 	white-space:nowrap
@@ -633,6 +634,8 @@
 	margin-right:.25em;
 	padding:2px 4px;
 	border-radius:.2em;
+	background:var(--waline-info-bgcolor);
+	color:var(--waline-info-color);
 	font-size:var(--waline-info-font-size);
 	line-height:1.5
 }
@@ -871,4 +874,3 @@
 	display:inline
 }
 /*# sourceMappingURL=waline.css.map */
- 
