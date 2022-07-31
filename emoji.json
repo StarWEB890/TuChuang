@@ -73,7 +73,7 @@
         { "icon": "😣", "text": "" }
       ]
     },
-    "<img style='width: 30px; height: 30px; margin: 6px 0px 0 0; margin: 6px 0px -8px 0;' src='https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png'>": {
+    "小电视": {
       "type": "image",
       "container": [
         { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
@@ -99,7 +99,7 @@
         { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">", "text": "tv_惊吓" }
       ]
     },
-    "<img style='width: 30px; height: 30px; margin: 6px 0px 0 0; margin: 6px 0px -8px 0;' src='https://emoji.shojo.cn/bili/src/%E5%86%B0%E7%B3%96IO%20%E8%9C%95%E5%8F%98%C2%B7%E9%97%AA%E8%80%80/%E5%86%B0%E7%B3%96IO%20%E8%9C%95%E5%8F%98%C2%B7%E9%97%AA%E8%80%80-icon.png'>": {
+    "冰糖IO 蜕变·闪耀": {
       "type": "image",
       "container": [
         { "icon": "<img src=\"https://emoji.shojo.cn/bili/src/冰糖IO 蜕变·闪耀/冰糖IO 蜕变·闪耀-救命好可爱.png\">", "text": "冰糖IO 蜕变·闪耀-救命好可爱" },
