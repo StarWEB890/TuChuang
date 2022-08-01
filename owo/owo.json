@@ -1,106 +1,31 @@
 {
-    "蛆音娘": {
+    "冰糖IO 蜕变·闪耀": {
         "type": "image",
-        "container": [{
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/吐血.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(吐血)",
-                "text": "吐血"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/滑稽.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(滑稽)",
-                "text": "滑稽"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/吃惊.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(吃惊)",
-                "text": "吃惊"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/生气.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(生气)",
-                "text": "生气"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/哭泣.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(哭泣)",
-                "text": "哭泣"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/die.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(die)",
-                "text": "die"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/疑问.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(疑问)",
-                "text": "疑问"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/肥皂.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(肥皂)",
-                "text": "肥皂"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/扶额.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(扶额)",
-                "text": "扶额"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/哼.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(哼)",
-                "text": "哼"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/大笑.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(大笑)",
-                "text": "大笑"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/偷看.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(偷看)",
-                "text": "偷看"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/卖萌.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(卖萌)",
-                "text": "卖萌"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/OK.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(OK)",
-                "text": "OK"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/吓死宝宝惹.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(吓死宝宝惹)",
-                "text": "吓死宝宝惹"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/摇头.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(摇头)",
-                "text": "摇头"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/睡觉.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(睡觉)",
-                "text": "睡觉"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/无语.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(无语)",
-                "text": "无语"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/吃瓜.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(吃瓜)",
-                "text": "吃瓜"
-            },
-            {
-                "icon": "<img src=\"https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/quyin/机智.png\" alt=\"\" class=\"OwO-img-quyin\">",
-                "data": ":@(机智)",
-                "text": "机智"
-            }
+        "container": [{"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-1.png", "data": ":1-1:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-2.png", "data": ":1-2:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-3.png", "data": ":1-3:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-4.png", "data": ":1-4:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-5.png", "data": ":1-5:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-6.png", "data": ":1-6:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-7.png", "data": ":1-7:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-8.png", "data": ":1-8:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-9.png", "data": ":1-9:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-10.png", "data": ":1-10:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-11.png", "data": ":1-11:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-12.png", "data": ":1-12:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-13.png", "data": ":1-13:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-14.png", "data": ":1-14:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-15.png", "data": ":1-15:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-16.png", "data": ":1-16:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-17.png", "data": ":1-17:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-18.png", "data": ":1-18:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-19.png", "data": ":1-19:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-20.png", "data": ":1-20:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-21.png", "data": ":1-21:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-22.png", "data": ":1-22:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-23.png", "data": ":1-23:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-24.png", "data": ":1-24:"},
+        {"file": "https://cdn.staticaly.com/gh/StarWEB890/TuChuang@master/owo/images/1-25.png", "data": ":1-25:"}
         ]
     }
 }
